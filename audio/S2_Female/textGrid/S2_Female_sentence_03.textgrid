@@ -1,0 +1,176 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.04
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "PhonTier"
+		xmin = 0
+		xmax = 3.04
+		intervals: size = 26
+		intervals [1]:
+			xmin = 0
+			xmax = 0.481
+			text = "#"
+		intervals [2]:
+			xmin = 0.481
+			xmax = 0.521
+			text = "l"
+		intervals [3]:
+			xmin = 0.521
+			xmax = 0.551
+			text = "@"
+		intervals [4]:
+			xmin = 0.551
+			xmax = 0.681
+			text = "l"
+		intervals [5]:
+			xmin = 0.681
+			xmax = 0.791
+			text = "u"
+		intervals [6]:
+			xmin = 0.791
+			xmax = 0.881
+			text = "g"
+		intervals [7]:
+			xmin = 0.881
+			xmax = 0.911
+			text = "R"
+		intervals [8]:
+			xmin = 0.911
+			xmax = 1.071
+			text = "i"
+		intervals [9]:
+			xmin = 1.071
+			xmax = 1.191
+			text = "#"
+		intervals [10]:
+			xmin = 1.191
+			xmax = 1.241
+			text = "p"
+		intervals [11]:
+			xmin = 1.241
+			xmax = 1.361
+			text = "a"
+		intervals [12]:
+			xmin = 1.361
+			xmax = 1.561
+			text = "s"
+		intervals [13]:
+			xmin = 1.561
+			xmax = 1.621
+			text = "#"
+		intervals [14]:
+			xmin = 1.621
+			xmax = 1.661
+			text = "p"
+		intervals [15]:
+			xmin = 1.661
+			xmax = 1.701
+			text = "a"
+		intervals [16]:
+			xmin = 1.701
+			xmax = 1.731
+			text = "R"
+		intervals [17]:
+			xmin = 1.731
+			xmax = 1.761
+			text = "l"
+		intervals [18]:
+			xmin = 1.761
+			xmax = 1.821
+			text = "a"
+		intervals [19]:
+			xmin = 1.821
+			xmax = 1.951
+			text = "s"
+		intervals [20]:
+			xmin = 1.951
+			xmax = 1.991
+			text = "a"
+		intervals [21]:
+			xmin = 1.991
+			xmax = 2.071
+			text = "l"
+		intervals [22]:
+			xmin = 2.071
+			xmax = 2.121
+			text = "#"
+		intervals [23]:
+			xmin = 2.121
+			xmax = 2.151
+			text = "v"
+		intervals [24]:
+			xmin = 2.151
+			xmax = 2.221
+			text = "i"
+		intervals [25]:
+			xmin = 2.221
+			xmax = 2.291
+			text = "d"
+		intervals [26]:
+			xmin = 2.291
+			xmax = 3.04
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "WordTier"
+		xmin = 0
+		xmax = 3.04
+		intervals: size = 13
+		intervals [1]:
+			xmin = 0
+			xmax = 0.481
+			text = "#"
+		intervals [2]:
+			xmin = 0.481
+			xmax = 0.551
+			text = "Le"
+		intervals [3]:
+			xmin = 0.551
+			xmax = 0.791
+			text = "loup"
+		intervals [4]:
+			xmin = 0.791
+			xmax = 1.071
+			text = "gris"
+		intervals [5]:
+			xmin = 1.071
+			xmax = 1.191
+			text = "#"
+		intervals [6]:
+			xmin = 1.191
+			xmax = 1.561
+			text = "passe"
+		intervals [7]:
+			xmin = 1.561
+			xmax = 1.621
+			text = "#"
+		intervals [8]:
+			xmin = 1.621
+			xmax = 1.731
+			text = "par"
+		intervals [9]:
+			xmin = 1.731
+			xmax = 1.821
+			text = "la"
+		intervals [10]:
+			xmin = 1.821
+			xmax = 2.071
+			text = "salle"
+		intervals [11]:
+			xmin = 2.071
+			xmax = 2.121
+			text = "#"
+		intervals [12]:
+			xmin = 2.121
+			xmax = 2.291
+			text = "vide"
+		intervals [13]:
+			xmin = 2.291
+			xmax = 3.04
+			text = "#"

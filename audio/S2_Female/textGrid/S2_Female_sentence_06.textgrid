@@ -1,0 +1,220 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 15.83
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "PhonTier"
+		xmin = 0
+		xmax = 15.83
+		intervals: size = 33
+		intervals [1]:
+			xmin = 0
+			xmax = 0.831
+			text = "#"
+		intervals [2]:
+			xmin = 0.831
+			xmax = 1.011
+			text = "l"
+		intervals [3]:
+			xmin = 1.011
+			xmax = 1.041
+			text = "a"
+		intervals [4]:
+			xmin = 1.041
+			xmax = 1.191
+			text = "#"
+		intervals [5]:
+			xmin = 1.191
+			xmax = 1.401
+			text = "l"
+		intervals [6]:
+			xmin = 1.401
+			xmax = 1.491
+			text = "u"
+		intervals [7]:
+			xmin = 1.491
+			xmax = 1.571
+			text = "p"
+		intervals [8]:
+			xmin = 1.571
+			xmax = 1.621
+			text = "@"
+		intervals [9]:
+			xmin = 1.621
+			xmax = 1.841
+			text = "#"
+		intervals [10]:
+			xmin = 1.841
+			xmax = 2.001
+			text = "d"
+		intervals [11]:
+			xmin = 2.001
+			xmax = 2.361
+			text = "#"
+		intervals [12]:
+			xmin = 2.361
+			xmax = 2.411
+			text = "s"
+		intervals [13]:
+			xmin = 2.411
+			xmax = 2.511
+			text = "E"
+		intervals [14]:
+			xmin = 2.511
+			xmax = 2.571
+			text = "t"
+		intervals [15]:
+			xmin = 2.571
+			xmax = 2.611
+			text = "@"
+		intervals [16]:
+			xmin = 2.611
+			xmax = 13.031
+			text = "#"
+		intervals [17]:
+			xmin = 13.031
+			xmax = 13.081
+			text = "d"
+		intervals [18]:
+			xmin = 13.081
+			xmax = 13.141
+			text = "a"
+		intervals [19]:
+			xmin = 13.141
+			xmax = 13.181
+			text = "m"
+		intervals [20]:
+			xmin = 13.181
+			xmax = 13.441
+			text = "#"
+		intervals [21]:
+			xmin = 13.441
+			xmax = 13.591
+			text = "E"
+		intervals [22]:
+			xmin = 13.591
+			xmax = 13.621
+			text = "s"
+		intervals [23]:
+			xmin = 13.621
+			xmax = 13.651
+			text = "t"
+		intervals [24]:
+			xmin = 13.651
+			xmax = 13.711
+			text = "#"
+		intervals [25]:
+			xmin = 13.711
+			xmax = 13.741
+			text = "t"
+		intervals [26]:
+			xmin = 13.741
+			xmax = 13.791
+			text = "R"
+		intervals [27]:
+			xmin = 13.791
+			xmax = 13.831
+			text = "E/"
+		intervals [28]:
+			xmin = 13.831
+			xmax = 13.881
+			text = "#"
+		intervals [29]:
+			xmin = 13.881
+			xmax = 14.131
+			text = "y"
+		intervals [30]:
+			xmin = 14.131
+			xmax = 14.311
+			text = "t"
+		intervals [31]:
+			xmin = 14.311
+			xmax = 14.421
+			text = "i"
+		intervals [32]:
+			xmin = 14.421
+			xmax = 14.451
+			text = "l"
+		intervals [33]:
+			xmin = 14.451
+			xmax = 15.83
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "WordTier"
+		xmin = 0
+		xmax = 15.83
+		intervals: size = 17
+		intervals [1]:
+			xmin = 0
+			xmax = 0.831
+			text = "#"
+		intervals [2]:
+			xmin = 0.831
+			xmax = 1.041
+			text = "La"
+		intervals [3]:
+			xmin = 1.041
+			xmax = 1.191
+			text = "#"
+		intervals [4]:
+			xmin = 1.191
+			xmax = 1.621
+			text = "loupe"
+		intervals [5]:
+			xmin = 1.621
+			xmax = 1.841
+			text = "#"
+		intervals [6]:
+			xmin = 1.841
+			xmax = 2.001
+			text = "de"
+		intervals [7]:
+			xmin = 2.001
+			xmax = 2.361
+			text = "#"
+		intervals [8]:
+			xmin = 2.361
+			xmax = 2.611
+			text = "cette"
+		intervals [9]:
+			xmin = 2.611
+			xmax = 13.031
+			text = "#"
+		intervals [10]:
+			xmin = 13.031
+			xmax = 13.181
+			text = "dame"
+		intervals [11]:
+			xmin = 13.181
+			xmax = 13.441
+			text = "#"
+		intervals [12]:
+			xmin = 13.441
+			xmax = 13.651
+			text = "est"
+		intervals [13]:
+			xmin = 13.651
+			xmax = 13.711
+			text = "#"
+		intervals [14]:
+			xmin = 13.711
+			xmax = 13.831
+			text = "très"
+		intervals [15]:
+			xmin = 13.831
+			xmax = 13.881
+			text = "#"
+		intervals [16]:
+			xmin = 13.881
+			xmax = 14.451
+			text = "utile"
+		intervals [17]:
+			xmin = 14.451
+			xmax = 15.83
+			text = "#"
