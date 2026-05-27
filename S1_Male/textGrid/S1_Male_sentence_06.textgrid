@@ -1,0 +1,172 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 3.68
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "PhonTier"
+		xmin = 0
+		xmax = 3.68
+		intervals: size = 26
+		intervals [1]:
+			xmin = 0
+			xmax = 0.901
+			text = "#"
+		intervals [2]:
+			xmin = 0.901
+			xmax = 1.021
+			text = "l"
+		intervals [3]:
+			xmin = 1.021
+			xmax = 1.111
+			text = "a"
+		intervals [4]:
+			xmin = 1.111
+			xmax = 1.171
+			text = "l"
+		intervals [5]:
+			xmin = 1.171
+			xmax = 1.271
+			text = "u"
+		intervals [6]:
+			xmin = 1.271
+			xmax = 1.441
+			text = "p"
+		intervals [7]:
+			xmin = 1.441
+			xmax = 1.521
+			text = "#"
+		intervals [8]:
+			xmin = 1.521
+			xmax = 1.611
+			text = "d"
+		intervals [9]:
+			xmin = 1.611
+			xmax = 1.671
+			text = "@"
+		intervals [10]:
+			xmin = 1.671
+			xmax = 1.781
+			text = "s"
+		intervals [11]:
+			xmin = 1.781
+			xmax = 1.831
+			text = "E"
+		intervals [12]:
+			xmin = 1.831
+			xmax = 1.951
+			text = "t"
+		intervals [13]:
+			xmin = 1.951
+			xmax = 2.061
+			text = "d"
+		intervals [14]:
+			xmin = 2.061
+			xmax = 2.201
+			text = "a"
+		intervals [15]:
+			xmin = 2.201
+			xmax = 2.301
+			text = "m"
+		intervals [16]:
+			xmin = 2.301
+			xmax = 2.381
+			text = "#"
+		intervals [17]:
+			xmin = 2.381
+			xmax = 2.471
+			text = "E/"
+		intervals [18]:
+			xmin = 2.471
+			xmax = 2.551
+			text = "t"
+		intervals [19]:
+			xmin = 2.551
+			xmax = 2.651
+			text = "R"
+		intervals [20]:
+			xmin = 2.651
+			xmax = 2.721
+			text = "E/"
+		intervals [21]:
+			xmin = 2.721
+			xmax = 2.801
+			text = "z"
+		intervals [22]:
+			xmin = 2.801
+			xmax = 2.861
+			text = "y"
+		intervals [23]:
+			xmin = 2.861
+			xmax = 3.011
+			text = "t"
+		intervals [24]:
+			xmin = 3.011
+			xmax = 3.131
+			text = "i"
+		intervals [25]:
+			xmin = 3.131
+			xmax = 3.231
+			text = "l"
+		intervals [26]:
+			xmin = 3.231
+			xmax = 3.68
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "WordTier"
+		xmin = 0
+		xmax = 3.68
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0
+			xmax = 0.901
+			text = "#"
+		intervals [2]:
+			xmin = 0.901
+			xmax = 1.111
+			text = "La"
+		intervals [3]:
+			xmin = 1.111
+			xmax = 1.441
+			text = "loupe"
+		intervals [4]:
+			xmin = 1.441
+			xmax = 1.521
+			text = "#"
+		intervals [5]:
+			xmin = 1.521
+			xmax = 1.671
+			text = "de"
+		intervals [6]:
+			xmin = 1.671
+			xmax = 1.951
+			text = "cette"
+		intervals [7]:
+			xmin = 1.951
+			xmax = 2.301
+			text = "dame"
+		intervals [8]:
+			xmin = 2.301
+			xmax = 2.381
+			text = "#"
+		intervals [9]:
+			xmin = 2.381
+			xmax = 2.471
+			text = "est"
+		intervals [10]:
+			xmin = 2.471
+			xmax = 2.801
+			text = "très"
+		intervals [11]:
+			xmin = 2.801
+			xmax = 3.231
+			text = "utile."
+		intervals [12]:
+			xmin = 3.231
+			xmax = 3.68
+			text = "#"

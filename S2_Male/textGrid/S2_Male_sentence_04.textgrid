@@ -1,0 +1,168 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2.72
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "PhonTier"
+		xmin = 0
+		xmax = 2.72
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0
+			xmax = 0.331
+			text = "#"
+		intervals [2]:
+			xmin = 0.331
+			xmax = 0.381
+			text = "a"
+		intervals [3]:
+			xmin = 0.381
+			xmax = 0.491
+			text = "R"
+		intervals [4]:
+			xmin = 0.491
+			xmax = 0.601
+			text = "t"
+		intervals [5]:
+			xmin = 0.601
+			xmax = 0.691
+			text = "y"
+		intervals [6]:
+			xmin = 0.691
+			xmax = 0.771
+			text = "R"
+		intervals [7]:
+			xmin = 0.771
+			xmax = 0.851
+			text = "a"
+		intervals [8]:
+			xmin = 0.851
+			xmax = 0.931
+			text = "v"
+		intervals [9]:
+			xmin = 0.931
+			xmax = 1.041
+			text = "y"
+		intervals [10]:
+			xmin = 1.041
+			xmax = 1.081
+			text = "#"
+		intervals [11]:
+			xmin = 1.081
+			xmax = 1.181
+			text = "y"
+		intervals [12]:
+			xmin = 1.181
+			xmax = 1.301
+			text = "n"
+		intervals [13]:
+			xmin = 1.301
+			xmax = 1.461
+			text = "p"
+		intervals [14]:
+			xmin = 1.461
+			xmax = 1.541
+			text = "y"
+		intervals [15]:
+			xmin = 1.541
+			xmax = 1.681
+			text = "s"
+		intervals [16]:
+			xmin = 1.681
+			xmax = 1.831
+			text = "#"
+		intervals [17]:
+			xmin = 1.831
+			xmax = 1.881
+			text = "s"
+		intervals [18]:
+			xmin = 1.881
+			xmax = 1.911
+			text = "y"
+		intervals [19]:
+			xmin = 1.911
+			xmax = 1.981
+			text = "R"
+		intervals [20]:
+			xmin = 1.981
+			xmax = 2.051
+			text = "s"
+		intervals [21]:
+			xmin = 2.051
+			xmax = 2.111
+			text = "a"
+		intervals [22]:
+			xmin = 2.111
+			xmax = 2.241
+			text = "t"
+		intervals [23]:
+			xmin = 2.241
+			xmax = 2.291
+			text = "E"
+		intervals [24]:
+			xmin = 2.291
+			xmax = 2.351
+			text = "t"
+		intervals [25]:
+			xmin = 2.351
+			xmax = 2.72
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "WordTier"
+		xmin = 0
+		xmax = 2.72
+		intervals: size = 12
+		intervals [1]:
+			xmin = 0
+			xmax = 0.331
+			text = "#"
+		intervals [2]:
+			xmin = 0.331
+			xmax = 0.771
+			text = "Arthur"
+		intervals [3]:
+			xmin = 0.771
+			xmax = 0.851
+			text = "a"
+		intervals [4]:
+			xmin = 0.851
+			xmax = 1.041
+			text = "vu"
+		intervals [5]:
+			xmin = 1.041
+			xmax = 1.081
+			text = "#"
+		intervals [6]:
+			xmin = 1.081
+			xmax = 1.301
+			text = "une"
+		intervals [7]:
+			xmin = 1.301
+			xmax = 1.681
+			text = "puce"
+		intervals [8]:
+			xmin = 1.681
+			xmax = 1.831
+			text = "#"
+		intervals [9]:
+			xmin = 1.831
+			xmax = 1.981
+			text = "sur"
+		intervals [10]:
+			xmin = 1.981
+			xmax = 2.111
+			text = "sa"
+		intervals [11]:
+			xmin = 2.111
+			xmax = 2.351
+			text = "tête."
+		intervals [12]:
+			xmin = 2.351
+			xmax = 2.72
+			text = "#"
