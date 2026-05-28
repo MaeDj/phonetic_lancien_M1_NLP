@@ -1,0 +1,160 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "PhonTier"
+		xmin = 0
+		xmax = 4
+		intervals: size = 25
+		intervals [1]:
+			xmin = 0
+			xmax = 1.011
+			text = "#"
+		intervals [2]:
+			xmin = 1.011
+			xmax = 1.101
+			text = "s"
+		intervals [3]:
+			xmin = 1.101
+			xmax = 1.171
+			text = "E/"
+		intervals [4]:
+			xmin = 1.171
+			xmax = 1.281
+			text = "t"
+		intervals [5]:
+			xmin = 1.281
+			xmax = 1.331
+			text = "y"
+		intervals [6]:
+			xmin = 1.331
+			xmax = 1.421
+			text = "n"
+		intervals [7]:
+			xmin = 1.421
+			xmax = 1.481
+			text = "b"
+		intervals [8]:
+			xmin = 1.481
+			xmax = 1.601
+			text = "E"
+		intervals [9]:
+			xmin = 1.601
+			xmax = 1.731
+			text = "t"
+		intervals [10]:
+			xmin = 1.731
+			xmax = 1.781
+			text = "@"
+		intervals [11]:
+			xmin = 1.781
+			xmax = 1.861
+			text = "#"
+		intervals [12]:
+			xmin = 1.861
+			xmax = 1.941
+			text = "a"
+		intervals [13]:
+			xmin = 1.941
+			xmax = 1.991
+			text = "v"
+		intervals [14]:
+			xmin = 1.991
+			xmax = 2.081
+			text = "E"
+		intervals [15]:
+			xmin = 2.081
+			xmax = 2.141
+			text = "k"
+		intervals [16]:
+			xmin = 2.141
+			xmax = 2.171
+			text = "d"
+		intervals [17]:
+			xmin = 2.171
+			xmax = 2.221
+			text = "@"
+		intervals [18]:
+			xmin = 2.221
+			xmax = 2.291
+			text = "g"
+		intervals [19]:
+			xmin = 2.291
+			xmax = 2.391
+			text = "R"
+		intervals [20]:
+			xmin = 2.391
+			xmax = 2.521
+			text = "a~"
+		intervals [21]:
+			xmin = 2.521
+			xmax = 2.551
+			text = "d"
+		intervals [22]:
+			xmin = 2.551
+			xmax = 2.691
+			text = "p"
+		intervals [23]:
+			xmin = 2.691
+			xmax = 2.771
+			text = "a"
+		intervals [24]:
+			xmin = 2.771
+			xmax = 2.801
+			text = "t"
+		intervals [25]:
+			xmin = 2.801
+			xmax = 4
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "WordTier"
+		xmin = 0
+		xmax = 4
+		intervals: size = 10
+		intervals [1]:
+			xmin = 0
+			xmax = 1.011
+			text = "#"
+		intervals [2]:
+			xmin = 1.011
+			xmax = 1.281
+			text = "C'est"
+		intervals [3]:
+			xmin = 1.281
+			xmax = 1.421
+			text = "une"
+		intervals [4]:
+			xmin = 1.421
+			xmax = 1.781
+			text = "bête"
+		intervals [5]:
+			xmin = 1.781
+			xmax = 1.861
+			text = "#"
+		intervals [6]:
+			xmin = 1.861
+			xmax = 2.141
+			text = "avec"
+		intervals [7]:
+			xmin = 2.141
+			xmax = 2.221
+			text = "de"
+		intervals [8]:
+			xmin = 2.221
+			xmax = 2.551
+			text = "grandes"
+		intervals [9]:
+			xmin = 2.551
+			xmax = 2.801
+			text = "pattes."
+		intervals [10]:
+			xmin = 2.801
+			xmax = 4
+			text = "#"

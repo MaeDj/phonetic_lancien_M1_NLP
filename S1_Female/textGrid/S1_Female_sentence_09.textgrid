@@ -1,0 +1,128 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 4
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "PhonTier"
+		xmin = 0
+		xmax = 4
+		intervals: size = 19
+		intervals [1]:
+			xmin = 0
+			xmax = 0.521
+			text = "#"
+		intervals [2]:
+			xmin = 0.521
+			xmax = 0.581
+			text = "l"
+		intervals [3]:
+			xmin = 0.581
+			xmax = 0.681
+			text = "y"
+		intervals [4]:
+			xmin = 0.681
+			xmax = 0.801
+			text = "k"
+		intervals [5]:
+			xmin = 0.801
+			xmax = 0.911
+			text = "a"
+		intervals [6]:
+			xmin = 0.911
+			xmax = 1.031
+			text = "b"
+		intervals [7]:
+			xmin = 1.031
+			xmax = 1.131
+			text = "w"
+		intervals [8]:
+			xmin = 1.131
+			xmax = 1.221
+			text = "a"
+		intervals [9]:
+			xmin = 1.221
+			xmax = 1.261
+			text = "#"
+		intervals [10]:
+			xmin = 1.261
+			xmax = 1.321
+			text = "y"
+		intervals [11]:
+			xmin = 1.321
+			xmax = 1.411
+			text = "n"
+		intervals [12]:
+			xmin = 1.411
+			xmax = 1.581
+			text = "s"
+		intervals [13]:
+			xmin = 1.581
+			xmax = 1.631
+			text = "u"
+		intervals [14]:
+			xmin = 1.631
+			xmax = 1.771
+			text = "p"
+		intervals [15]:
+			xmin = 1.771
+			xmax = 1.911
+			text = "S"
+		intervals [16]:
+			xmin = 1.911
+			xmax = 2.021
+			text = "o"
+		intervals [17]:
+			xmin = 2.021
+			xmax = 2.121
+			text = "d"
+		intervals [18]:
+			xmin = 2.121
+			xmax = 2.171
+			text = "@"
+		intervals [19]:
+			xmin = 2.171
+			xmax = 4
+			text = "#"
+	item [2]:
+		class = "IntervalTier"
+		name = "WordTier"
+		xmin = 0
+		xmax = 4
+		intervals: size = 8
+		intervals [1]:
+			xmin = 0
+			xmax = 0.521
+			text = "#"
+		intervals [2]:
+			xmin = 0.521
+			xmax = 0.911
+			text = "Lucas"
+		intervals [3]:
+			xmin = 0.911
+			xmax = 1.221
+			text = "boit"
+		intervals [4]:
+			xmin = 1.221
+			xmax = 1.261
+			text = "#"
+		intervals [5]:
+			xmin = 1.261
+			xmax = 1.411
+			text = "une"
+		intervals [6]:
+			xmin = 1.411
+			xmax = 1.771
+			text = "soupe"
+		intervals [7]:
+			xmin = 1.771
+			xmax = 2.171
+			text = "chaude."
+		intervals [8]:
+			xmin = 2.171
+			xmax = 4
+			text = "#"
